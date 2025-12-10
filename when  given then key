@@ -1,0 +1,11 @@
+The Given-When-Then (GWT) keywords are used in Behavior-Driven Development (BDD) to define tests in a natural language style. 
+
+1. Given: Sets the context for the test. It describes the initial state of the system or the preconditions for the test.
+2. When: Describes the action or event that triggers the test. It specifies what is being tested.
+3. Then: Describes the expected outcome or result of the test. It specifies what should happen as a result of the action or event.
+
+Example:
+
+1. Given I am on the login page
+2. When I enter my username and password
+3.Then I should be logged in successfully
