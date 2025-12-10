@@ -1,0 +1,19 @@
+1.testNG:  
+1. use:
+    1. TestNG: A testing framework for Java that provides a lot of features for testing, such as test grouping, test prioritization, and test parallelization.
+2. Test Definition:
+    1.TestNG: Tests are defined using Java annotations (e.g., @Test, @BeforeMethod, etc.).
+3. Test Execution:
+    1.TestNG: Tests are executed directly by the TestNG framework.
+4. Test Grouping:
+    1. TestNG: Allows grouping of tests using the @Test annotation.
+
+2.Cucumber:
+1.use:
+    1.Cucumber: A behavior-driven development (BDD) framework that allows you to define tests in a natural language style.
+2. Test Definition: 
+      2. Cucumber: Tests are defined using Gherkin syntax (Given-When-Then) in feature files.
+3. Test Execution:
+       3. Cucumber: Tests are executed by the Cucumber framework, which translates the Gherkin syntax into Java code.
+4. Test Grouping:
+   4.. Cucumber: Allows grouping of tests using tags in the feature files.
